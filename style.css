@@ -1,0 +1,16 @@
+.font{
+    font-family: "fantasy", monospace;
+    
+}
+
+.color{
+    
+    background-color: rgb(250, 212, 227) ;
+    font-size:40px;
+}
+
+.dimensions{
+    width: 300px;
+    height:auto;
+}
+
